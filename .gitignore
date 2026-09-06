@@ -64,6 +64,7 @@ bot-wasap/.wwebjs_auth/
 
 # ISSUE 44: Sesiones independientes por negocio
 bot-wasap/auth/
+bot-wasap/auth_readonly_ssv/
 
 # Logs and local artifacts
 logs/
@@ -84,6 +85,7 @@ run_tenants.bat
 bot-wasap/.wwebjs_cache/
 bot-wasap/qr_code.png
 bot-wasap/assets/*/qr_code.png
+bot-wasap/lion_readonly_qr.png
 
 # Artefactos accidentales por rutas rotas de salida
 UsersAdministradorDocumentsempanadas_prods.json
